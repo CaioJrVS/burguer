@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
 import Layout from './components/Layout/Layout'
-import BurguerBUilder from './containers/BurguerBUilder/BurguerBuilder'
+import BurguerBuilder from './containers/BurguerBuilder/BurguerBuilder'
 
 class App extends Component {
   render() {
     return (
       <div >
 		  <Layout> 
-			  <BurguerBUilder />
+			  <BurguerBuilder />
 		  </Layout>
       </div>
     );
