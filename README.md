@@ -1,4 +1,4 @@
-##Burguer Builder:
+# Burguer Builder:
 
   Construí esse app fazendo um curso de React no udemy.
   É um app que você pode construir o seu hamburguer de forma interativa
@@ -21,3 +21,10 @@
   
   No curso, aprendi como usar componentes, JSX, a estrutura de arquivos pra 
   melhor organização do ambiente 
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
